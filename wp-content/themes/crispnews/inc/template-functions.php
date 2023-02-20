@@ -35,3 +35,7 @@ function crispnews_pingback_header() {
 	}
 }
 add_action( 'wp_head', 'crispnews_pingback_header' );
+
+/** post formats */
+$post_formats = array('aside', 'image', 'gallery', 'video', 'audio', 'link', 'quote', 'status');
+add_theme_support('post-formats', $post_formats);

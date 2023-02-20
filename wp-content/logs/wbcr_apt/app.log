@@ -1,0 +1,137 @@
+
+20-02-2023 14:27:26 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+20-02-2023 14:27:26 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+20-02-2023 14:27:36 [localhost][info] START generate in mode:  find
+20-02-2023 14:27:36 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => '',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+20-02-2023 14:27:36 [localhost][info] Queried posts IDs:  60,58,56,54,52,50,48,46,44,42,40,38,36,20,1,2
+-------------------------------
+20-02-2023 14:27:36 [localhost][info] --Start processing post ID = 60
+20-02-2023 14:27:36 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:36 [localhost][info] --End processing post ID = 60
+-------------------------------
+20-02-2023 14:27:37 [localhost][info] --Start processing post ID = 58
+20-02-2023 14:27:37 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:37 [localhost][info] --End processing post ID = 58
+-------------------------------
+20-02-2023 14:27:37 [localhost][info] --Start processing post ID = 56
+20-02-2023 14:27:37 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:37 [localhost][info] --End processing post ID = 56
+-------------------------------
+20-02-2023 14:27:38 [localhost][info] --Start processing post ID = 54
+20-02-2023 14:27:38 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:38 [localhost][info] --End processing post ID = 54
+-------------------------------
+20-02-2023 14:27:38 [localhost][info] --Start processing post ID = 52
+20-02-2023 14:27:38 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:38 [localhost][info] --End processing post ID = 52
+-------------------------------
+20-02-2023 14:27:39 [localhost][info] --Start processing post ID = 50
+20-02-2023 14:27:39 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:39 [localhost][info] --End processing post ID = 50
+-------------------------------
+20-02-2023 14:27:39 [localhost][info] --Start processing post ID = 48
+20-02-2023 14:27:39 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:39 [localhost][info] --End processing post ID = 48
+-------------------------------
+20-02-2023 14:27:40 [localhost][info] --Start processing post ID = 46
+20-02-2023 14:27:40 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:40 [localhost][info] --End processing post ID = 46
+-------------------------------
+20-02-2023 14:27:40 [localhost][info] --Start processing post ID = 44
+20-02-2023 14:27:40 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:40 [localhost][info] --End processing post ID = 44
+-------------------------------
+20-02-2023 14:27:41 [localhost][info] --Start processing post ID = 42
+20-02-2023 14:27:41 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:41 [localhost][info] --End processing post ID = 42
+-------------------------------
+20-02-2023 14:27:41 [localhost][info] --Start processing post ID = 40
+20-02-2023 14:27:41 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:41 [localhost][info] --End processing post ID = 40
+-------------------------------
+20-02-2023 14:27:42 [localhost][info] --Start processing post ID = 38
+20-02-2023 14:27:42 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:42 [localhost][info] --End processing post ID = 38
+-------------------------------
+20-02-2023 14:27:42 [localhost][info] --Start processing post ID = 36
+20-02-2023 14:27:42 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:42 [localhost][info] --End processing post ID = 36
+-------------------------------
+20-02-2023 14:27:42 [localhost][info] --Start processing post ID = 20
+20-02-2023 14:27:42 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:42 [localhost][info] --End processing post ID = 20
+-------------------------------
+20-02-2023 14:27:43 [localhost][info] --Start processing post ID = 1
+20-02-2023 14:27:43 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:43 [localhost][info] --End processing post ID = 1
+-------------------------------
+20-02-2023 14:27:43 [localhost][info] --Start processing post ID = 2
+20-02-2023 14:27:43 [localhost][debug] Found images: array (
+)
+20-02-2023 14:27:43 [localhost][info] --End processing post ID = 2
+-------------------------------
+20-02-2023 14:29:05 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+20-02-2023 14:29:05 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+20-02-2023 14:29:13 [localhost][info] START generate in mode:  find
+20-02-2023 14:29:13 [localhost][info] Posts query: array (
+  'has_thumb' => '1',
+  'type' => true,
+  'status' => '',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+20-02-2023 14:29:13 [localhost][info] Queried posts IDs:  20812,21271,21316,21318,21321,21323,21411,21413,21415,21683,21697,21699,21925,21927,21879,21951,21953,21972,21967,21956,21958,21975,21977,21979,21981,21983,21703,21744,21746,21749,21754,21457,21488,21478,21480,21125,21708,21710,21713,21716,21444,21447,21453,21455,21632,21634,21636,21483,21601,21592,21594,21553,21556,21561,21565,21567,21569,21157,21107,21101,20850,20810,20840,20733,20731,20727,21370,21373,21375,21398,21311,21360,21362,21365,21351,21354,21357,20722,20720,20655,20653,20649,20647,20645,20643,20629,20609,20611,20607,20595,20588,20566,20561,20555,20515,20511,20463,20454,20459,20513,20509,20501,20699,20575,20592,20465,20475,20497,20479,20461,20628,20637,20639,20624,20616,20614,20552,20503,20415,20531,20929,20931,20605,20521,20523,20526,20519,20846,20854,20494,20489,20486,20600,20602,20604,20473,20471,20469,20467,20457,20449,20451,20407,20404,20402,20395,20389,20736,20738,20739,20708,20387,20226,20385,20360,20659,20666,20668,20374,20366,20364,20358,20357
+-------------------------------

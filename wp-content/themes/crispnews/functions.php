@@ -67,6 +67,7 @@ function crispnews_setup() {
 			'caption',
 			'style',
 			'script',
+			'navigation-widgets',
 		)
 	);
 
