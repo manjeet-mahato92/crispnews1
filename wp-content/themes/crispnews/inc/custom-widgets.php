@@ -49,5 +49,14 @@ function custom_widgets()
     'before_title'  => '<div class="widget-name"><h4 class="fs-4 fw-600">',
     'after_title'   => '</h4><div class="border-foot"></div></div>',
   ));
+
+  register_sidebar(array(
+    'name'          => 'Header Ad',
+    'id'            => 'header_ad',
+    'before_widget' => '<div class="header-ad">',
+    'after_widget'  => '</div>',
+    'before_title'  => '',
+    'after_title'   => '',
+  ));
 }
 add_action('widgets_init', 'custom_widgets');

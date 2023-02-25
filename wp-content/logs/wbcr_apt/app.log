@@ -135,3 +135,525 @@
 )
 20-02-2023 14:29:13 [localhost][info] Queried posts IDs:  20812,21271,21316,21318,21321,21323,21411,21413,21415,21683,21697,21699,21925,21927,21879,21951,21953,21972,21967,21956,21958,21975,21977,21979,21981,21983,21703,21744,21746,21749,21754,21457,21488,21478,21480,21125,21708,21710,21713,21716,21444,21447,21453,21455,21632,21634,21636,21483,21601,21592,21594,21553,21556,21561,21565,21567,21569,21157,21107,21101,20850,20810,20840,20733,20731,20727,21370,21373,21375,21398,21311,21360,21362,21365,21351,21354,21357,20722,20720,20655,20653,20649,20647,20645,20643,20629,20609,20611,20607,20595,20588,20566,20561,20555,20515,20511,20463,20454,20459,20513,20509,20501,20699,20575,20592,20465,20475,20497,20479,20461,20628,20637,20639,20624,20616,20614,20552,20503,20415,20531,20929,20931,20605,20521,20523,20526,20519,20846,20854,20494,20489,20486,20600,20602,20604,20473,20471,20469,20467,20457,20449,20451,20407,20404,20402,20395,20389,20736,20738,20739,20708,20387,20226,20385,20360,20659,20666,20668,20374,20366,20364,20358,20357
 -------------------------------
+21-02-2023 09:26:36 [localhost][debug] Found images: array (
+)
+-------------------------------
+21-02-2023 09:27:16 [localhost][warning] The post (20812) has already been assigned a featured image
+21-02-2023 09:27:16 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+21-02-2023 09:29:44 [localhost][warning] The post (20812) has already been assigned a featured image
+21-02-2023 09:29:44 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+21-02-2023 10:34:32 [localhost][warning] The post (20812) has already been assigned a featured image
+21-02-2023 10:34:32 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+21-02-2023 14:17:20 [localhost][warning] The post (20812) has already been assigned a featured image
+21-02-2023 14:17:21 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+23-02-2023 10:26:48 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+-------------------------------
+23-02-2023 10:28:02 [localhost][debug] Found images: array (
+)
+23-02-2023 10:28:05 [localhost][warning] The post type (acf-field) is not allowed for generation in settings
+23-02-2023 10:28:05 [localhost][debug] Found images: array (
+)
+23-02-2023 10:28:06 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+23-02-2023 10:28:06 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+-------------------------------
+23-02-2023 10:38:13 [localhost][debug] Found images: array (
+)
+23-02-2023 10:38:16 [localhost][debug] Found images: array (
+)
+23-02-2023 10:38:20 [localhost][warning] The post type (acf-field) is not allowed for generation in settings
+23-02-2023 10:38:20 [localhost][debug] Found images: array (
+)
+23-02-2023 10:38:22 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+23-02-2023 10:38:22 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+-------------------------------
+23-02-2023 10:38:51 [localhost][debug] Found images: array (
+)
+23-02-2023 10:38:55 [localhost][debug] Found images: array (
+)
+23-02-2023 10:38:57 [localhost][warning] The post type (acf-field) is not allowed for generation in settings
+23-02-2023 10:38:57 [localhost][debug] Found images: array (
+)
+23-02-2023 10:39:00 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+23-02-2023 10:39:00 [localhost][warning] The post type (acf-field-group) is not allowed for generation in settings
+-------------------------------
+23-02-2023 10:39:37 [localhost][warning] The post (20812) has already been assigned a featured image
+23-02-2023 10:39:41 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+23-02-2023 13:27:28 [localhost][warning] The post (20812) has already been assigned a featured image
+23-02-2023 13:27:29 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+23-02-2023 13:36:39 [localhost][warning] The post (20812) has already been assigned a featured image
+23-02-2023 13:36:40 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+23-02-2023 13:37:43 [localhost][warning] The post (20812) has already been assigned a featured image
+23-02-2023 13:37:44 [localhost][warning] The post (20812) has already been assigned a featured image
+-------------------------------
+23-02-2023 14:29:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:29:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:55 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:55 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:30:56 [localhost][debug] Found images: array (
+)
+23-02-2023 14:30:56 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:31:09 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:39 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:39 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:40 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:40 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:40 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:40 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:40 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:40 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:40 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:40 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:40 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:40 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:40 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:40 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:31:49 [localhost][debug] Found images: array (
+)
+23-02-2023 14:31:49 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:33:43 [localhost][debug] Found images: array (
+)
+23-02-2023 14:33:43 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:34:33 [localhost][debug] Found images: array (
+)
+23-02-2023 14:34:33 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:19 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:19 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:36 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:36 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:45 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:45 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:35:58 [localhost][debug] Found images: array (
+)
+23-02-2023 14:35:58 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:38:57 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:38:57 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:38:57 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:38:57 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:38:57 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:38:57 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:39:09 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:09 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+23-02-2023 14:39:13 [localhost][debug] Found images: array (
+)
+23-02-2023 14:39:13 [localhost][warning] The post type (nav_menu_item) is not allowed for generation in settings
+-------------------------------

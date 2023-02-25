@@ -28,8 +28,8 @@
 	<div id="page" class="site">
 		<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e('Skip to content', 'crispnews'); ?></a>
 
-		<header id="masthead" class="site-header border-bottom sticky-top bg-body-tertiary">
-			<div class="container-xl">
+		<header id="masthead" class="site-header border-bottom sticky-top bg-white">
+			<div class="container">
 				<nav class="navbar navbar-expand-lg">
 					<div class="site-branding">
 						<?php
@@ -57,7 +57,7 @@
 						<?php /* Primary navigation */
 						wp_nav_menu(
 							array(
-								'menu' => 'top_menu',
+								'menu' => 'menu-2',
 								'depth' => 2,
 								'container' => false,
 								'menu_class' => 'navbar-nav mb-0 mb-lg-0',
@@ -142,5 +142,4 @@
 				</nav><!-- #site-navigation -->
 			</div>
 		</header><!-- #masthead -->
-		<div class="container-xl">
-			<div class="row gx-5 p-5">
+		
